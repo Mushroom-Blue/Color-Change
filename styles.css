@@ -1,0 +1,19 @@
+.page_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vw;
+}
+
+.page_content {
+  display: flex;
+  flex-direction: column;
+}
+
+.color_square {
+  border: 1px solid black;
+  width: 300px;
+  height: 300px;
+  margin-bottom: 20px;
+}
